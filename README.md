@@ -6,7 +6,7 @@
 
 Valerryx is an AssaultCube trainer made in Python.
 
-This project was created using Cr0mb's AssaultCube Client Memory Manipulation project as a reference:
+This project was created using Cr0mb's AssaultCube project as a reference:
 https://github.com/Cr0mb/Assault-Cube-Client-Memory-Manipulation/
 
 ## Requirements
